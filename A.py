@@ -20,5 +20,5 @@ def tela_cadastro():
     print(f"cpf: {cpf}")
     print(f"Email: {Email}")
     print(f"data de nascimento{data_nascimento}")
-    
+
 tela_cadastro()
